@@ -38,6 +38,10 @@ a {
 }
 .download .btn {
   padding: 2em;
+  transition: opacity 0.3s;
+}
+.download .btn:hover {
+  opacity: 0.7;
 }
 
 .hero {
